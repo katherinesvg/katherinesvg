@@ -5,7 +5,7 @@ const Katherine =
 {
   pronouns: [she, her],
   code: [c, java, python, javascript, html, css],
-  school: [santa monica college],
+  major: [computer science],
   leadership: "connect club":
 {
   role: ICC Delegate
