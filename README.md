@@ -8,7 +8,7 @@ const Katherine =
   major: [computer science],
   leadership: "connect club":
 {
-  role: ICC Delegate
+  role: Publicist
 }
 }
 ```
