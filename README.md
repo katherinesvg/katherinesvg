@@ -4,7 +4,7 @@
 const Katherine = 
 {
   pronouns: [she, her],
-  code: [c, java, python, javascript, html, css],
+  code: [c/c++, java, python, javascript, html, css],
   major: [computer science],
   leadership: "connect club":
 {
