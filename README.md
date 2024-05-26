@@ -22,6 +22,9 @@ const Katherine =
   <a href="https://twitter.com/2kthx">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://devpost.com/katherinesvg?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
+  </a>
 </div>
 
 
