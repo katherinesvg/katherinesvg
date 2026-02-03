@@ -5,7 +5,8 @@ const Katherine =
 {
   pronouns: [she, her],
   code: [c/c++, java, python, javascript, html, css],
-  major: [computer science],
+  school: [University of Southern California],
+  major: [computer science and business administration]
 }
 ```
 <div id="badges">
